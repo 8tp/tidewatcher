@@ -1,0 +1,78 @@
+<svg width="1280" height="640" viewBox="0 0 1280 640" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="640" rx="42" fill="#1C1218"/>
+  <rect x="20" y="20" width="1240" height="600" rx="34" fill="#24161E" stroke="#9E677F" stroke-width="2"/>
+
+  <circle cx="132" cy="118" r="7" fill="#F497B8" fill-opacity="0.85"/>
+  <circle cx="154" cy="96" r="10" fill="#FFD2E0" fill-opacity="0.82"/>
+  <circle cx="184" cy="114" r="8" fill="#F7B9CD" fill-opacity="0.86"/>
+  <circle cx="1124" cy="116" r="8" fill="#FFD2E0" fill-opacity="0.68"/>
+  <circle cx="1162" cy="96" r="10" fill="#F497B8" fill-opacity="0.72"/>
+  <circle cx="1188" cy="126" r="7" fill="#F7B9CD" fill-opacity="0.66"/>
+
+  <rect x="86" y="96" width="104" height="104" rx="28" fill="#2A1922" stroke="#9E677F" stroke-width="2"/>
+  <rect x="100" y="112" width="74" height="54" rx="16" fill="#3A2530" stroke="#B77A94" stroke-width="1.5"/>
+  <path d="M108 124C119 121 130 121 141 124C150 126 159 126 169 123" stroke="#FFD2E0" stroke-opacity="0.38" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M96 145C108 138 120 136 132 138C143 140 153 145 165 147C174 149 183 147 191 143V175H96V145Z" fill="#F7B9CD"/>
+  <path d="M96 154C108 150 120 149 132 151C144 153 154 157 165 159C175 161 184 160 191 157V175H96V154Z" fill="#E08BAE"/>
+  <path d="M96 162C108 159 121 158 133 160C145 162 155 166 166 168C175 170 184 170 191 167V175H96V162Z" fill="#B86C8F"/>
+  <rect x="155" y="118" width="10" height="42" rx="5" fill="#FFF2F5"/>
+  <rect x="158" y="123" width="4" height="2.5" rx="1.25" fill="#9E677F"/>
+  <rect x="158" y="130" width="4" height="2.5" rx="1.25" fill="#9E677F"/>
+  <rect x="158" y="137" width="4" height="2.5" rx="1.25" fill="#9E677F"/>
+  <rect x="158" y="144" width="4" height="2.5" rx="1.25" fill="#9E677F"/>
+  <rect x="158" y="151" width="4" height="2.5" rx="1.25" fill="#9E677F"/>
+  <rect x="155" y="143" width="10" height="17" rx="5" fill="#F497B8"/>
+  <circle cx="104" cy="108" r="3.5" fill="#F7B9CD" fill-opacity="0.88"/>
+  <circle cx="115" cy="100" r="4.5" fill="#FFD2E0" fill-opacity="0.84"/>
+  <circle cx="127" cy="108" r="3.5" fill="#F497B8" fill-opacity="0.88"/>
+
+  <text x="226" y="136" fill="#FFF2F5" font-family="'Baskerville', 'Georgia', serif" font-size="64" font-weight="700">Tidewatcher</text>
+  <text x="228" y="184" fill="#F7B9CD" font-family="'Avenir Next', 'Trebuchet MS', sans-serif" font-size="24" font-weight="600" letter-spacing="3">SAKURA TIDE DEFAULT</text>
+  <text x="228" y="238" fill="#E3C4D0" font-family="'Avenir Next', 'Trebuchet MS', sans-serif" font-size="28" font-weight="500">Terminal system monitoring with live charts, process control,</text>
+  <text x="228" y="274" fill="#E3C4D0" font-family="'Avenir Next', 'Trebuchet MS', sans-serif" font-size="28" font-weight="500">and a deliberately styled TUI instead of a generic metrics wall.</text>
+
+  <rect x="82" y="332" width="1118" height="232" rx="28" fill="#21151C" stroke="#9E677F" stroke-width="2"/>
+  <rect x="82" y="332" width="1118" height="36" rx="28" fill="#2D1B25"/>
+  <circle cx="112" cy="350" r="5" fill="#F497B8"/>
+  <circle cx="130" cy="350" r="5" fill="#FFD2E0"/>
+  <circle cx="148" cy="350" r="5" fill="#D6B1BE"/>
+  <text x="176" y="356" fill="#D6B1BE" font-family="'Avenir Next', 'Trebuchet MS', sans-serif" font-size="14" font-weight="600">tidewatcher --theme "Sakura Tide"</text>
+
+  <rect x="108" y="390" width="236" height="76" rx="18" fill="#2A1922" stroke="#9E677F" stroke-opacity="0.9"/>
+  <text x="126" y="416" fill="#FFD2E0" font-family="'Avenir Next', 'Trebuchet MS', sans-serif" font-size="16" font-weight="700">CPU</text>
+  <text x="126" y="440" fill="#FFF2F5" font-family="'SFMono-Regular', 'Menlo', monospace" font-size="18" font-weight="700">System CPU Avg   6.4%</text>
+  <path d="M126 456C143 452 159 448 176 450C194 452 209 460 227 462C248 465 270 457 300 442" stroke="#F497B8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M126 456C142 460 160 466 174 466H300" stroke="#B86C8F" stroke-width="3" stroke-linecap="round"/>
+
+  <rect x="362" y="390" width="236" height="76" rx="18" fill="#2A1922" stroke="#9E677F" stroke-opacity="0.9"/>
+  <text x="380" y="416" fill="#FFD2E0" font-family="'Avenir Next', 'Trebuchet MS', sans-serif" font-size="16" font-weight="700">MEMORY</text>
+  <text x="380" y="440" fill="#FFF2F5" font-family="'SFMono-Regular', 'Menlo', monospace" font-size="18" font-weight="700">RAM In Use      34%</text>
+  <rect x="380" y="450" width="180" height="8" rx="4" fill="#593546"/>
+  <rect x="380" y="450" width="76" height="8" rx="4" fill="#F497B8"/>
+  <text x="380" y="468" fill="#D6B1BE" font-family="'SFMono-Regular', 'Menlo', monospace" font-size="14">Avail  10.5G   Free  3.8G</text>
+
+  <rect x="616" y="390" width="236" height="76" rx="18" fill="#2A1922" stroke="#9E677F" stroke-opacity="0.9"/>
+  <text x="634" y="416" fill="#FFD2E0" font-family="'Avenir Next', 'Trebuchet MS', sans-serif" font-size="16" font-weight="700">DISK</text>
+  <text x="634" y="440" fill="#FFF2F5" font-family="'SFMono-Regular', 'Menlo', monospace" font-size="18" font-weight="700">/   43%    0 B/s</text>
+  <path d="M634 456H818" stroke="#593546" stroke-width="8" stroke-linecap="round"/>
+  <path d="M634 456H766" stroke="#F7B9CD" stroke-width="8" stroke-linecap="round"/>
+
+  <rect x="870" y="390" width="304" height="76" rx="18" fill="#2A1922" stroke="#9E677F" stroke-opacity="0.9"/>
+  <text x="888" y="416" fill="#FFD2E0" font-family="'Avenir Next', 'Trebuchet MS', sans-serif" font-size="16" font-weight="700">NETWORK</text>
+  <text x="888" y="438" fill="#FFF2F5" font-family="'SFMono-Regular', 'Menlo', monospace" font-size="18" font-weight="700">en0  down 0 B/s</text>
+  <text x="888" y="458" fill="#D6B1BE" font-family="'SFMono-Regular', 'Menlo', monospace" font-size="15">up 0 B/s</text>
+
+  <rect x="108" y="484" width="710" height="56" rx="16" fill="#2A1922" stroke="#9E677F" stroke-opacity="0.9"/>
+  <text x="126" y="508" fill="#FFD2E0" font-family="'Avenir Next', 'Trebuchet MS', sans-serif" font-size="16" font-weight="700">PROCESSES [cpu | per-core]</text>
+  <text x="126" y="528" fill="#FFF2F5" font-family="'SFMono-Regular', 'Menlo', monospace" font-size="16">PID    Core%    RSS      I/O      Name</text>
+  <text x="126" y="548" fill="#F7B9CD" font-family="'SFMono-Regular', 'Menlo', monospace" font-size="16">1042     1.2     31M      0B/s    tidewatcher</text>
+  <text x="126" y="566" fill="#D6B1BE" font-family="'SFMono-Regular', 'Menlo', monospace" font-size="15">332      0.7     84M      0B/s    WindowServer</text>
+
+  <rect x="842" y="484" width="332" height="56" rx="16" fill="#2A1922" stroke="#9E677F" stroke-opacity="0.9"/>
+  <path d="M878 527C898 514 916 508 937 510C953 512 966 518 982 522C1007 528 1030 524 1073 498V540H878V527Z" fill="#F497B8"/>
+  <path d="M878 536C897 528 918 526 940 529C958 532 974 538 993 541C1014 544 1034 540 1073 523V540H878V536Z" fill="#B86C8F"/>
+  <path d="M903 507C920 494 937 489 955 491C968 492 979 498 992 502C1010 507 1028 503 1052 488" stroke="#FFD2E0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="1053" cy="487" r="5" fill="#FFF2F5"/>
+  <circle cx="1106" cy="501" r="4" fill="#F7B9CD" fill-opacity="0.8"/>
+  <circle cx="1120" cy="487" r="5" fill="#FFD2E0" fill-opacity="0.76"/>
+</svg>

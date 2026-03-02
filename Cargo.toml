@@ -1,0 +1,12 @@
+[package]
+name = "tidewatcher"
+version = "0.1.0"
+edition = "2021"
+description = "A Ratatui-powered terminal system monitor with tide-inspired live charts."
+license = "MIT"
+
+[dependencies]
+crossterm = "0.29"
+libc = "0.2"
+ratatui = "0.30"
+sysinfo = "0.38"

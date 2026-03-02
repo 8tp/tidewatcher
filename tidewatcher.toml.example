@@ -1,0 +1,20 @@
+# Tidewatcher configuration
+
+# Metric refresh cadence in milliseconds. Clamped to 250..10000.
+refresh_interval_ms = 1500
+# Tide animation cadence in milliseconds. Lower is smoother. Clamped to 80..1000.
+animation_interval_ms = 180
+# Samples retained for CPU, memory, mount, and interface history. Clamped to 20..240.
+history_capacity = 90
+# Built-in theme name.
+# Available themes: Ocean Current, Harbor Fog, Sakura Tide, Matcha Glass, Lantern Ember, Moonlit Koi, Winter Plum
+theme = "Sakura Tide"
+# Process list sort: cpu, memory, io, or name.
+process_sort = "cpu"
+
+# Metric labels in the memory panel:
+# RAM = in use, Avail = reusable, Free = unallocated, Swap = used swap.
+#
+# Optional dashboard density controls. Each is clamped to 1..8.
+disk_limit = 4
+network_limit = 4

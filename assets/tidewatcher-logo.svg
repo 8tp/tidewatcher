@@ -1,0 +1,49 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <clipPath id="logoSceneClip">
+      <rect x="94" y="84" width="230" height="152" rx="28"/>
+    </clipPath>
+  </defs>
+
+  <rect x="16" y="16" width="1168" height="288" rx="44" fill="#1C1218"/>
+  <rect x="16" y="16" width="1168" height="288" rx="44" stroke="#9E677F" stroke-width="2"/>
+
+  <path d="M736 78C815 62 915 68 1064 116" stroke="#D6B1BE" stroke-opacity="0.08" stroke-width="2"/>
+  <path d="M708 114C844 95 978 112 1116 164" stroke="#D6B1BE" stroke-opacity="0.05" stroke-width="2"/>
+  <path d="M700 250C807 232 918 236 1088 270" stroke="#F497B8" stroke-opacity="0.08" stroke-width="2"/>
+
+  <rect x="56" y="52" width="316" height="216" rx="34" fill="#2A1922" stroke="#9E677F" stroke-width="2"/>
+
+  <rect x="94" y="84" width="230" height="152" rx="28" fill="#3A2530" stroke="#B77A94" stroke-width="2"/>
+  <path d="M116 114C149 103 182 102 214 111C241 119 267 120 300 110" stroke="#FFD2E0" stroke-opacity="0.42" stroke-width="5" stroke-linecap="round"/>
+  <path d="M128 138C157 129 186 129 215 137C238 143 263 144 288 137" stroke="#FFD2E0" stroke-opacity="0.2" stroke-width="4" stroke-linecap="round"/>
+
+  <g clip-path="url(#logoSceneClip)">
+    <path d="M88 194C120 175 149 168 180 171C205 174 226 185 249 189C281 195 310 189 338 174V248H88V194Z" fill="#F7B9CD"/>
+    <path d="M88 214C120 201 151 198 182 201C210 204 233 213 257 217C287 222 313 217 338 204V248H88V214Z" fill="#E08BAE"/>
+    <path d="M88 228C123 220 156 219 189 223C217 227 241 235 266 238C293 241 317 238 338 230V248H88V228Z" fill="#B86C8F"/>
+  </g>
+
+  <path d="M110 204C138 194 164 192 191 196C219 201 244 212 270 216C294 220 314 217 334 206" stroke="#FFD2E0" stroke-width="5" stroke-linecap="round"/>
+
+  <rect x="279" y="98" width="28" height="120" rx="12" fill="#FFF2F5"/>
+  <rect x="286" y="110" width="14" height="4" rx="2" fill="#9E677F"/>
+  <rect x="286" y="128" width="14" height="4" rx="2" fill="#9E677F"/>
+  <rect x="286" y="146" width="14" height="4" rx="2" fill="#9E677F"/>
+  <rect x="286" y="164" width="14" height="4" rx="2" fill="#9E677F"/>
+  <rect x="286" y="182" width="14" height="4" rx="2" fill="#9E677F"/>
+  <rect x="286" y="200" width="14" height="4" rx="2" fill="#9E677F"/>
+  <rect x="279" y="170" width="28" height="48" rx="12" fill="#F497B8"/>
+  <path d="M267 194H318" stroke="#FFD2E0" stroke-width="4" stroke-linecap="round"/>
+
+  <circle cx="118" cy="98" r="6" fill="#F7B9CD" fill-opacity="0.9"/>
+  <circle cx="138" cy="84" r="8" fill="#FFD2E0" fill-opacity="0.82"/>
+  <circle cx="160" cy="98" r="6" fill="#F497B8" fill-opacity="0.88"/>
+
+  <text x="408" y="122" fill="#FFF2F5" font-family="'Baskerville', 'Georgia', serif" font-size="70" font-weight="700">Tidewatcher</text>
+  <text x="410" y="170" fill="#E8C8D4" font-family="'Avenir Next', 'Trebuchet MS', sans-serif" font-size="29" font-weight="500">Terminal system monitoring with tide-inspired live visuals</text>
+  <text x="410" y="216" fill="#F7B9CD" font-family="'Avenir Next', 'Trebuchet MS', sans-serif" font-size="18" font-weight="700" letter-spacing="1">Sakura Tide  •  Ratatui  •  Theme-aware ASCII scenes</text>
+
+  <path d="M410 248C474 236 536 237 593 246C648 255 704 254 762 244C831 231 912 231 1004 250" stroke="#F497B8" stroke-width="4" stroke-linecap="round"/>
+  <path d="M410 266C462 260 516 261 566 269C608 276 650 277 694 272C752 264 820 263 910 278" stroke="#F497B8" stroke-opacity="0.34" stroke-width="3" stroke-linecap="round"/>
+</svg>
